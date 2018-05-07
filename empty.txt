@@ -1,2 +1,3 @@
 new text
 updated text for master
+I am a new github edit
